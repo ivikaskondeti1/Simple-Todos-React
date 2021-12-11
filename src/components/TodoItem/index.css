@@ -1,0 +1,19 @@
+.ItemContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 5px;
+}
+.btn {
+  background-color: transparent;
+  border: 2px;
+  border-style: solid;
+  border-color: #ff0b37;
+  border-radius: 5px;
+  padding: 5px;
+  margin-right: 15px;
+}
+.paragraph {
+  font-weight: bold;
+  margin: -1px;
+}
